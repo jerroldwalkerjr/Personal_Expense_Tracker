@@ -15,5 +15,4 @@ Personal Expense Tracker is a lightweight Python application that simplifies fin
 1. Make sure you have **Python 3** installed on your system.
 2. Download or clone this repository.
 3. Run the script in your terminal:
-   ```bash
   Personal_Expense_Tracker
