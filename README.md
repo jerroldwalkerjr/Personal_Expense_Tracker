@@ -8,7 +8,7 @@ Personal Expense Tracker is a lightweight Python application that simplifies fin
 - Simple command-line interface with menu navigation
 
 ## Technologies Used
-- Python 3.x
+- Python 3.13
 - CSV module (for file storage)
 
 ## How to Run
@@ -16,4 +16,4 @@ Personal Expense Tracker is a lightweight Python application that simplifies fin
 2. Download or clone this repository.
 3. Run the script in your terminal:
    ```bash
-   python expense_tracker.py
+  Personal_Expense_Tracker
